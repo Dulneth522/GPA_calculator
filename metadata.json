@@ -1,0 +1,6 @@
+{
+  "name": "UniPath - Academic & Career Pathway Intelligence",
+  "description": "Empowering university students with precision GPA calculation, target GPA planning, transparent career-skill pathway analysis, and local-first academic tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
